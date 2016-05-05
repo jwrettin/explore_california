@@ -1,0 +1,21 @@
+total 107
+-rw-r--r-- 1 jwrettin 1049089     0 May  5 15:04 two.txt
+-rw-r--r-- 1 jwrettin 1049089  1090 May  5 15:04 one.txt
+-rw-r--r-- 1 jwrettin 1049089  6834 May  5 15:04 index.html
+drwxr-xr-x 1 jwrettin 1049089     0 May  5 15:04 tours/
+-rw-r--r-- 1 jwrettin 1049089 14809 May  5 15:04 contact.html
+-rw-r--r-- 1 jwrettin 1049089  8362 May  5 15:04 explorers.html
+-rw-r--r-- 1 jwrettin 1049089   207 May  5 15:02 newfile.txt
+drwxr-xr-x 1 jwrettin 1049089     0 Apr 14 13:41 bak/
+-rw-r--r-- 1 jwrettin 1049089  6834 Apr 14 13:09 index3.html
+-rw-r--r-- 1 jwrettin 1049089  6834 Apr 14 13:09 index4.html
+-rw-r--r-- 1 jwrettin 1049089     9 Apr 13 19:49 hi3.txt
+-rw-r--r-- 1 jwrettin 1049089    15 Apr 13 19:15 tempfile.txt
+-rw-r--r-- 1 jwrettin 1049089 13164 Apr 13 18:01 tours.html
+-rw-r--r-- 1 jwrettin 1049089  7148 Apr 13 17:52 mission.html
+-rw-r--r-- 1 jwrettin 1049089 10757 Apr 13 17:52 resources.html
+-rw-r--r-- 1 jwrettin 1049089  8297 Apr 13 17:52 support.html
+drwxr-xr-x 1 jwrettin 1049089     0 Apr 13 17:42 assets/
+drwxr-xr-x 1 jwrettin 1049089     0 Apr 13 17:42 resources/
+drwxr-xr-x 1 jwrettin 1049089     0 Apr 13 17:42 explorers/
+changed on 4th commit
