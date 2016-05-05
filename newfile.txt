@@ -1,0 +1,17 @@
+assets/
+bak/
+contact.html
+explorers/
+explorers.html
+hi3.txt
+index.html
+index3.html
+index4.html
+mission.html
+newfile.txt
+resources/
+resources.html
+support.html
+tempfile.txt
+tours/
+tours.html
